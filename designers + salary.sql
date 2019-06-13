@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE salary < 30000 AND position_of_employee='designer';
